@@ -15,6 +15,7 @@ public class TaxRateController {
 
 	@Autowired
 	TaxRateRepository taxRateRepository;
+	
 	@Autowired
 	Environment environment;
 

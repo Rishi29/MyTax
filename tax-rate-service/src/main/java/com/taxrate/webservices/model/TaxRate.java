@@ -11,9 +11,7 @@ import lombok.NoArgsConstructor;
 public class TaxRate {
 
 	private int id;
-
 	private long incomeLimit;
-
 	private int rate;
 
 	public long getIncomeLimit() {

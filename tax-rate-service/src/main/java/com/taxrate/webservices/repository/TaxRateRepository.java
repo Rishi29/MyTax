@@ -8,6 +8,7 @@ import com.taxrate.webservices.model.TaxRate;
 
 public interface TaxRateRepository extends JpaRepository<TaxRate, Long> {
 
+	
 	List<TaxRate> findAll();
 
 }

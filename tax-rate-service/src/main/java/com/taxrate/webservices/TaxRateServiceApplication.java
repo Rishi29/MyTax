@@ -9,5 +9,4 @@ public class TaxRateServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TaxRateServiceApplication.class, args);
 	}
-
 }
